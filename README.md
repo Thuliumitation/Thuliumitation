@@ -12,6 +12,7 @@
 
 [<img align="left" alt="Thuliumitation | YouTube" width="26px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][https://www.youtube.com/channel/UCuRL0c3JEu6MmFahbmz8BGw]
 [<img align="left" alt="Thuliumitation | Stack Overflow" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" />][https://stackoverflow.com/users/14355951/thuliumitation]
+
 <br />
 
 ### Languages, Frameworks and Tools I'm familiar with:
@@ -58,6 +59,8 @@
 - [Answer by Thuliumitation for how to look for a specific word in browser-history](https://stackoverflow.com/questions/70149674/how-to-look-for-a-specific-word-in-browser-history/70150397#70150397)
 <!-- STACKOVERFLOW:END -->
 
+## 📈 Statistics
+
 [![Thuliumitation's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thuliumitation&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thuliumitation&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thuliumitation&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
