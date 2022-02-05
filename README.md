@@ -9,8 +9,10 @@
 
 ### My Social Media Profiles other than GitHub:
 
-[<img align="left" alt="Thuliumitation | YouTube" width="26px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"/>](https://www.youtube.com/channel/UCuRL0c3JEu6MmFahbmz8BGw)
-[<img align="left" alt="Thuliumitation | Stack Overflow" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" />](https://stackoverflow.com/users/14355951/thuliumitation)
+[<img align="left" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCuRL0c3JEu6MmFahbmz8BGw)
+[<img align="left" width="150px" src="https://img.shields.io/badge/-Stack Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/14355951/thuliumitation)
+[<img align="left" width="110px" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />](https://www.codewars.com/users/Thuliumitation)
+[<img align="left" width="120px" src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" />](https://www.goodreads.com/user/show/143974512-thuliumify)
 
 <br />
 
@@ -47,10 +49,6 @@
 ### 🍴 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Thuliumitation/base32/issues/1) in [Thuliumitation/base32](https://github.com/Thuliumitation/base32)
-2. 🗣 Commented on [#1](https://github.com/Thuliumitation/base32/issues/1) in [Thuliumitation/base32](https://github.com/Thuliumitation/base32)
-3. ❗️ Closed issue [#3](https://github.com/Aspect1103/Lavapy/issues/3) in [Aspect1103/Lavapy](https://github.com/Aspect1103/Lavapy)
-4. ❗️ Opened issue [#3](https://github.com/Aspect1103/Lavapy/issues/3) in [Aspect1103/Lavapy](https://github.com/Aspect1103/Lavapy)
 <!--END_SECTION:activity-->
 
 ---
