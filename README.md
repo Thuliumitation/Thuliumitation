@@ -10,7 +10,7 @@
 
 ### My Social Media Profiles other than GitHub:
 
-[<img align="left" alt="Thuliumitation | YouTube" width="26px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][https://www.youtube.com/channel/UCuRL0c3JEu6MmFahbmz8BGw]
+[<img align="left" alt="Thuliumitation | YouTube" width="26px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" href="https://www.youtube.com/channel/UCuRL0c3JEu6MmFahbmz8BGw"/>]
 [<img align="left" alt="Thuliumitation | Stack Overflow" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" />][https://stackoverflow.com/users/14355951/thuliumitation]
 
 <br />
