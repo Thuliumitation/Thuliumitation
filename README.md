@@ -61,6 +61,8 @@
 <!-- STACKOVERFLOW:END -->
 
 ## 📈 Statistics
+##### Visitor count (thanks :D)
+![Visitor Count](https://profile-counter.glitch.me/Thuliumitation/count.svg)
 
 [![Thuliumitation's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thuliumitation&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=True&icon_color=7fff00)](https://github.com/anuraghazra/github-readme-stats)
 
