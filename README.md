@@ -67,4 +67,6 @@
 ### 📚 Recent Stack Overflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Thuliumitation for How to replace punctuation with space python](https://stackoverflow.com/questions/70150389/how-to-replace-punctuation-with-space-python/70150460#70150460)
+- [Answer by Thuliumitation for how to look for a specific word in browser-history](https://stackoverflow.com/questions/70149674/how-to-look-for-a-specific-word-in-browser-history/70150397#70150397)
 <!-- STACKOVERFLOW:END -->
