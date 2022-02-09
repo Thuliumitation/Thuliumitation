@@ -57,10 +57,10 @@
 ### 🍴 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/nandiniproothi/notion-discord-rpc/issues/2) in [nandiniproothi/notion-discord-rpc](https://github.com/nandiniproothi/notion-discord-rpc)
-2. ❗️ Closed issue [#1](https://github.com/Thuliumitation/base32/issues/1) in [Thuliumitation/base32](https://github.com/Thuliumitation/base32)
-3. 🗣 Commented on [#1](https://github.com/Thuliumitation/base32/issues/1) in [Thuliumitation/base32](https://github.com/Thuliumitation/base32)
-4. ❗️ Closed issue [#3](https://github.com/Aspect1103/Lavapy/issues/3) in [Aspect1103/Lavapy](https://github.com/Aspect1103/Lavapy)
+1. ❗️ Opened issue [#160](https://github.com/qwertyquerty/pypresence/issues/160) in [qwertyquerty/pypresence](https://github.com/qwertyquerty/pypresence)
+2. ❗️ Opened issue [#2](https://github.com/nandiniproothi/notion-discord-rpc/issues/2) in [nandiniproothi/notion-discord-rpc](https://github.com/nandiniproothi/notion-discord-rpc)
+3. ❗️ Closed issue [#1](https://github.com/Thuliumitation/base32/issues/1) in [Thuliumitation/base32](https://github.com/Thuliumitation/base32)
+4. 🗣 Commented on [#1](https://github.com/Thuliumitation/base32/issues/1) in [Thuliumitation/base32](https://github.com/Thuliumitation/base32)
 <!--END_SECTION:activity-->
 
 
