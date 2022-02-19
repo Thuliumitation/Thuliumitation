@@ -44,11 +44,11 @@
 ### 🎥 Recent YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Understanding Recursion as simply as possible!](https://www.youtube.com/watch?v=rr7Ehy30v1k)
 - [How to re-create Carl-bot&#39;s Purge/Clear command in Discord.py!](https://www.youtube.com/watch?v=SkHpzyFhsZg)
 - [How to re-create YAGPDB.xyz&#39;s WYR command in Discord.py!](https://www.youtube.com/watch?v=FWtRRJp6OR0)
 - [A beginner&#39;s guide to Embed in Discord.py! Rewrite](https://www.youtube.com/watch?v=HQqVC1-xQSM)
 - [Make faster Web/API requests with Aiohttp in Discord.py!](https://www.youtube.com/watch?v=HvoHoofwsLM)
-- [How to re-create Dank Memer&#39;s Emojify command in Discord.py!](https://www.youtube.com/watch?v=cFkZHL8MtVI)
 <!-- YOUTUBE:END -->
 
 [Looking for more?](https://www.youtube.com/channel/UCuRL0c3JEu6MmFahbmz8BGw)
